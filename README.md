@@ -2,9 +2,9 @@
 - 👀 I’m interested in ... learning more about programming and building projects
 - 🌱 I’m currently learning ... c++ , java , python , etc (there is always more to learn)
 - 💞️ I’m looking to collaborate on ... algorithms and data structures 
-- 📫 How to reach me ... cxn220034@utdallas.edu
+- 📫 How to reach me ... ceen2327@gmail.com 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... JJK stan
+- ⚡ Fun fact: ... I love Java and Python and React
 
 <!---
 ceenguyen05/ceenguyen05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
